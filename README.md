@@ -1,4 +1,4 @@
-Hidden, High & Hammered
+Hidden High & Hammered
 ===============
 bethjsanborn.com
 
