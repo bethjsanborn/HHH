@@ -576,6 +576,19 @@ function showDivs(n) {
                       <textarea placeholder="Message" rows="3" name="Message" id="Message" class="form-control"></textarea>
                     </div>
                     <button type="submit" id="form-submit" class="comment-btn" onClick="thanks()">Submit</button>
+                    <html>
+  <head>
+    <title>reCAPTCHA demo: Simple page</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+  <body>
+    <form action="?" method="POST">
+      <div class="g-recaptcha" data-sitekey="6Ldr-S0aAAAAAGQI3S2boz8XuzuQQsTeFiCkzKHb"></div>
+      <br/>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
                   </form>
                  </div>
                </div>
