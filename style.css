@@ -584,7 +584,7 @@ img{
 }
 
 .single-slide img{
-	width: 100%;
+	
 }
 
 .slide-content {
@@ -688,7 +688,7 @@ img{
 	display: inline;
 	float: left;
 	padding: 0 30px;
-	width: 100%; 
+	 
 }
 
 /*--------------------*/
